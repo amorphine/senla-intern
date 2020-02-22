@@ -48,3 +48,5 @@ function ask(question) {
 
 ask();
 
+console.log('test');
+
